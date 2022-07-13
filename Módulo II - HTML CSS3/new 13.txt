@@ -1,0 +1,14 @@
+dir -> lista de diretórios contidos na pasta
+cd / -> entrar em pasta específica
+cd windows -> todos arquivos e pastas contidos na pasta windows
+cd .. -> volta no estágio anterior
+cls -> limpa o terminal
+mkdir -> criar pasta
+echo -> printf
+del -> deleta arquivos
+rmdir -> deleta o repositório
+ls -a -> mostra arquivos ocultos
+git status -> status do arquivo
+mv strogonoff.md ./receitas/ -> movendo um arquivo de repositório
+
+

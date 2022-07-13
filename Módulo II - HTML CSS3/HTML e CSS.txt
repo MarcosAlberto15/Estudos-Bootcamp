@@ -1,0 +1,12 @@
+section
+header > cabeçario
+article > conteúdo relevante ex:artigo
+aside > conteúdo relacionado ao principal ex: biografia
+footer > rodapé da pagina ou de parte de pagina
+h1 ~ h6 > representam a importancia de um titulo na página
+<p> -> Conteúdo do artigo
+<a> -> aponta para links e email 
+<img> -> armazena imagem
+<ul> -> lista onde a ordem não importa
+<ol> -> lista onde a ordem importa
+<li> -> item de uma lista
